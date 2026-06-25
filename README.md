@@ -153,6 +153,12 @@ sudo systemctl enable safrochaind
 sudo systemctl start safrochaind
 ```
 
+### Node İnfo
+
+```
+safrochaind status 2>&1 | jq
+```
+
 ---
 
 ## 3. Wallet Operations
