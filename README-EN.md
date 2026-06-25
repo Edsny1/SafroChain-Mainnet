@@ -24,7 +24,7 @@
 Download and run the setup script:
 
 ```bash
-wget -O safrochain_mainnet.sh https://raw.githubusercontent.com/YOUR_REPO/safrochain_mainnet.sh
+wget -O safrochain_mainnet.sh https://raw.githubusercontent.com/Edsny1/SafroChain-Mainnet/refs/heads/Edsny/safrochain_mainnet.sh
 chmod +x safrochain_mainnet.sh
 ./safrochain_mainnet.sh
 ```
