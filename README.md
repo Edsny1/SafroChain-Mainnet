@@ -153,7 +153,7 @@ sudo systemctl enable safrochaind
 sudo systemctl start safrochaind
 ```
 
-### Node İnfo
+### Status Check
 
 ```
 safrochaind status 2>&1 | jq
